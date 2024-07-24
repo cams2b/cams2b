@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @cams2b
-- 👀 I’m interested in medical AI applications
-- 🌱 I’m currently learning medical image segmentation, disease classification + risk analysis.
-- 💞️ I’m looking to collaborate on disease classification.
+- I am 2nd year PhD student in Bioengineering at the University of Pennsylvania
+- 👀 I’m interested in applying artificial intelligence to better understand cardiovascular diseases
+- 🌱 I’m currently interested in imaging derived phenotype extraction, deep unsupervised clustering, and genetic analysis.
+- 💞️ I’m happy to collaborate on any of my projects
 - 📫 How to reach me cabeeche@gmail.com
 
 <!---
