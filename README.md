@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cams2b
+- 👋 Hi, I’m Cameron Beeche
 - I am 2nd year PhD student in Bioengineering at the University of Pennsylvania
 - 👀 I’m interested in applying artificial intelligence to better understand cardiovascular diseases
 - 🌱 I’m currently interested in imaging derived phenotype extraction, deep unsupervised clustering, and genetic analysis.
